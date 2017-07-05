@@ -1,0 +1,120 @@
+#bgvid { 
+    z-index: -100;
+    position: fixed;
+    background-size: 100% 100%;
+    top: 0px;
+    right: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    /*image: url("images/wallpaper.jpg");*/
+    background-color: #cccccc;
+
+    /*position: fixed;
+    z-index: -100;
+    background-size: 100% 100%;
+    top: 0px;
+    right: 0px;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;*/
+
+    /*background: white no-repeat;*/
+    /*position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; */
+}
+
+.content p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #636363;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color: #636363;
+}
+
+
+.blog-tags-list {
+  padding: 0;
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.blog-tags-list li {
+  display: inline-block;
+  margin-bottom: 5px;
+  background-color: #ffd29b;
+  border-radius: 2px;
+  padding-right: 7px;
+}
+
+.blog-tags-list li>a {
+  display: block;
+  padding: 5px;
+  font-size: 75%;
+}
+
+.blog-tags-list li>a:hover {
+  text-decoration: none;
+}
+
+.blog-tags-list li.active {
+  display: inline-block;
+  margin-bottom: 5px;
+  background-color: #D33939;
+  border-radius: 2px;
+}
+
+.blog-tags-list li.active>a {
+  display: block;
+  color: white;
+  text-decoration: none;
+}
+
+
+.one-publication-tags-list {
+  padding: 0;
+  list-style-type: none;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  /*padding-bottom: 0px;*/
+}
+
+.one-publication-tags-list li {
+  display: inline-block;
+  /*margin-bottom: 5px;*/
+  background-color: #ffd29b;
+  border-radius: 2px;
+  padding-right: 7px;
+  font-size: 70%;
+}
+
+.one-publication-tags-list li>a {
+  display: block;
+  /*padding: 5px;*/
+  font-size: 30%;
+}
+
+.one-publication-tags-list li>a:hover {
+  text-decoration: none;
+}
+
+.blog-list-container p {
+  text-align: justify;
+  text-justify: inter-word;
+}
