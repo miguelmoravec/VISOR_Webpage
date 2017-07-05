@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master\assets\css\bootstrap.css">
     <link rel="stylesheet" href="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master\assets\css\main.css" />
     <link rel="stylesheet" href="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master\assets\css\custom.css" />
+	<link rel="stylesheet" type="text/css" href="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master\assets\css\examples.css" />
 </head>
 
 <!-- Navigation -->
@@ -73,7 +74,7 @@
 		<header id="header" class="alt">
             <!-- SCOPE-Lab</span> -->
             <span class="typedheader typed"></span> <!-- filled by main.js using typed.js -->
-        </header>	
+        </header>
         <div id="main">
             <section id="intro" class="main">
                 <div class="spotlight">
@@ -81,13 +82,7 @@
                         <header class="major"  style="text-align: center;">
                             <h2>The Mission</h2>
                         </header>
-                   <!--     <p>Smart cities and Smart Grids are two exemplars of large scale cyber-physical systems that operate across geographically dispersed environments. With the increasing integration of edge devices, commodity computers, and low power sensors in these domains, we are seeing the emergence of cyber physical systems that operate with heterogeneous computing resources, which are distributed across physical environments. Our research group is exploring these societally important systems focusing on the following research challenges.</p>
-                        <p><u>Development and Operations Management</u> - Traditionally, cyber physical systems have been developed to operate with tightly controlled processes so that the design, analysis, and deployment can be done offline, before the system is deployed. As we think about modern operations that include over the air updates and flexible functionality that are implemented in software, the devops mechanisms used to design enterprise systems are now being used for CPS design. The challenge we face is – how can we ensure that the software engineering principles applied to enterprise structures can be used to guarantee safety and reliability for embedded software that have to operate under the physical constraints imposed by CPS components?</p>
-                        <p><u>System Integration</u> - Our exemplars represent large cyber physical system of systems that pose interesting integration and management challenges. For example, with the advancement of networking concepts we are quickly moving into a world where software applications from different CPS have to communicate with each other. This is a difficult challenge, especially if the systems are not properly orchestrated, the brittleness of their interfaces can lead to faults that can then propagate through the systems to cause failures.</p>
-                        <p><u>System Reliability</u> - System monitoring, prognostics, and fault detection and isolation are big challenges that we face as we scale up systems in size and complexity. Any system that operates over long periods of time has to cope with degradation associated with ageing, operational stress, and environmental conditions, that can result in failures of the associated physical components. Failures and latent bugs in the software add another source of degradation and failure, resulting in unoperational and compromised systems. It remains a challenge to understand and monitor degradation and failure caused by interactions between different subsystems of a large CPS that may operate across multiple physical domains.</p>
-                        <p><u>Computation Platforms</u> - A computation platform must be designed to accommodate and integrate heterogeneous components, operate at multiple time-scales (e.g., real time, near real time, and , long-term), allow for dynamic resource allocation, while accommodating a variety of topologies including edge networks, and providing, safety, reliability, and security guarantees. Our goal is to implement a stringent layered architecture that ensures that the layers interact across safe interface sets, provide efficiency guarantees, and ensure that the faults from a layer propagates across the layer in a way that allows better characterization of failure dynamics.</p>
-                        <p><u>Big Data Analytics and Data Science</u> - Systems such as the grid and Smart Cities are becoming more and more complex, and analysis of these systems using pure model-based approaches is becoming infeasible. On the other hand, the proliferation of data, storage and retrieval mechanisms, the availability of large and distributed computing resources, and the advances in analytics, machine learning, and mining methods is providing new opportunities to understand and act on the system operations. Our challenges here are to develop repositories and tool boxes that support a wide variety of analytics and mining routines, as well as work to address specific Smart City problems.</p>
--->
+						
                             <p> The VISOR Trans-Institutional Program focuses on multi-disciplinary research for formulating, developing, and deploying “smart city” applications. The population growth fueled by increasing commerce, facilities, and entertainment requires significant research, planning, problem solving, and sustainable development of the region’s infrastructure that includes transportation, housing, and utilities to keep the city operating effectively. The goal of VISOR is to work with Metro Nashville governmental agencies to develop a technical and policy platform that enables living city labs in which to study, research, and develop solutions to the challenges and problems faced by the city and by extension other cities around the world. </p>
 
 </div>
@@ -370,6 +365,24 @@
                     <br><br><br><br><br><br><br>
                     
             </section>
+			
+			            <section id="intro" class="main">
+                <div class="spotlight">
+                    <div class="content" style="text-align: left;">
+                        <header class="major"  style="text-align: center;">
+                            <h2>The Institute</h2>
+							<br> <br> <br>
+							  <div style="text-align:center">
+								<div id="map">
+								</div>
+                        </header>
+						
+                            
+							
+</div>
+                    <!-- <span class="image"><img src="images/vehicles/varun.jpg" alt="varun" /></span> -->
+                </div>
+            </section>
 
         </div>
 
@@ -409,7 +422,27 @@
 <script src="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master/assets/js/main.js"></script>
 <script src="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master/assets/js/bootstrap.min.js"></script>
 <script src="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master/assets/js/typed.js"></script>
-
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyC60IH1nFbhB00YBn8tHoBqMF47WIT4L3I"></script>
+<script type="text/javascript" src="C:\Users\m174380\Documents\VISOR\auv-iitk.github.io-master\assets\js\gmaps.js"></script>
+<script type="text/javascript">
+$(document).ready(function () {
+    var map = new GMaps({
+        el: '#map',
+        lat: 36.144926,
+        lng: -86.793281,
+        width: '500px',
+        height: '500px',
+        zoom: 19,
+        zoomControl: true,
+        zoomControlOpt: {
+            style: 'SMALL',
+            position: 'TOP_LEFT'
+        },
+        panControl: false
+    });
+});
+  </script>
+	
 </div>
 
 </html>
