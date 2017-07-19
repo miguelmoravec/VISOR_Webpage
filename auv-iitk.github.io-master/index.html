@@ -1,62 +1,500 @@
----
-layout: default
----
-        <!-- Header -->
-        <header id="header" class="alt">
-            <span class="logo"><img src="images/logo.svg" alt="auv-iitk" /></span>
-            <span class="typedheader typed"></span> <!-- filled by main.js using typed.js -->
+<!DOCTYPE html>
+<html lang="en">
+<!--
+
+   __________________          _-_             
+   \________________|)____.---'---`---.____    
+                ||    \----._________.----/   
+                ||     / ,'   `---'           
+             ___||_,--'  -._                    
+            /___          ||(-                  
+                `---._____-'                    
+
+-->
+<head>
+    <title>VISOR | Vanderbilt University</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="images/batman3.png">
+    <link rel="stylesheet" href="assets\css\bootstrap.css">
+    <link rel="stylesheet" href="assets\css\main.css" />
+    <link rel="stylesheet" href="assets\css\custom.css" />
+</head>
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="visor.html">VISOR Project Home</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                    
+                <li>
+                    <a href="blog.html">Blog</a>
+                </li>
+                        
+                <li>
+                    <a href="projects.html">Projects</a>
+                </li>
+                        
+                <li>
+                    <a href="publication.html">Publications</a>
+                </li>
+                                     
+                <li>
+                    <a href="search.html" class="nav-search-link" title="SEARCH">
+                        <span class="fa fa-search nav-search-icon"></span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <body> 
+	
+				<div><img src="images\nash5.3.jpg" id="bgvid"></div>
+                <!--<div><video autoplay="" id="bgvid" loop="" oncanplay=""><source src="images/nash.mp4" type="video/mp4"></video></div> -->
+    
+		<header id="header" class="alt">
+            <!-- VISOR Acronymn and Logo -->
+			<span class="logo"><img src="images/visor_vector2.png" alt="VISOR" /></span>
+          
         </header>
         <div id="main">
-            <section id="intro" class="main">
+            <section id="intro" class="main special">
+				<span class="typedheader typed"></span> <!-- filled by main.js using typed.js -->
                 <div class="spotlight">
-                    <div class="content">
-                        <header class="major">
-                            <h2>Who we are ?</h2>
+                    <div class="content" style="text-align: center;">
+                        <header class="major" style="text-align: center;">
+                            <br><h2>The Mission</h2>
                         </header>
-                        <p>We are a bunch of overly optimistic, hardworking students working towards creating I.I.T. Kanpur's first Autonomous Under Water Vehicle. The current team consists of 20 students spanning various branches of engineering like Mechanical, Electrical, Computer Science, Physics, Material Science and Chemical at Indian Institute of Technology Kanpur.<br>Our mission is to participate in AUV competitions like NIOT SAVe, Robosub. The competition is a platform for students to display their skills in underwater robotics and build a connection with industries working along similar verticals. <br>Our vision is to lower the entry barier for research in underwater robotics. For this we have designed <i>Varun</i> such that any of its mechanical, electrical or software component can be individually improved and tested. Thus enabling researchers to focus on there field of research and using other pre-baked components.</p>
-                    </div>
-                    <span class="image"><img src="images/vehicles/varun.jpg" alt="varun" /></span>
+							
+                            <p>The VISOR Trans-Institutional Program focuses on multi-disciplinary research for formulating, developing, and deploying “smart city” applications. The population growth fueled by increasing commerce, facilities, and entertainment requires significant research, planning, problem solving, and sustainable development of the region’s infrastructure that includes transportation, housing, and utilities to keep the city operating effectively. The goal of VISOR is to work with Metro Nashville governmental agencies to develop a technical and policy platform that enables living city labs in which to study, research, and develop solutions to the challenges and problems faced by the city and by extension other cities around the world. <br> <br> </p>
+							<iframe width="100%" height=265 scrolling="no" marginheight="0" marginwidth="0" src="images\smartcity3.png"></iframe>
+							<p> In particular, the proposed center will conduct research that combines the development of computational infrastructures at scale for collecting and analyzing heterogeneous data across the city, with a focus on social and policy impact. Real-time and predictive data analytics and mining techniques applied to this data will yield decision support systems that (1) support city planners and city residents and (2) address challenges related to improving mobility, increasing  safety, and supporting sustainable and affordable housing developments. </p><br>
+							<!-- <iframe width="100%" height=265 scrolling="no" marginheight="0" marginwidth="0" src="images/visor_graphic.png" alt=""></iframe> -->
+							
+
+</div>
+                    <!--<span class="image  right"><img src="images/nash2.jpg" alt="" /></span> -->
                 </div>
             </section>
-            <section id="subteams" class="main special">
-                <header class="major">
-                    <h2>Sub Teams</h2>
-                </header>
-                <ul class="features">
-                    {% for item in site.subteam %}
-                    <li>
-                        <span class="icon major {{ item.iconstyle }} {{ item.icon }}"></span>
-                        <h3>{{ item.title }}</h3>
-                        <p>{{ item.description }}</p>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </section>
-            <section id="third" class="main special">
-                <header class="major">
-                    <h2>AUV Competitions</h2>
-                </header>
-                    {% for item in site.competition %}
+
+<!--Partners Section -->			
+			
+<section class="main special">
+            
+            
+                <div class="content">
+
+                    
                     <p style="clear: both;">
-                    <span class="image {% cycle 'left', 'right' %}"><img src="{{ item.image }}" alt="" /></span>
-                    <h3> {{ item.title }} </h3>
-                    {{ item.description }}
-                    <a href="{{ item.link }}"><i>Read more...</i></a>
+
+            
+                </p><div class="content">
+                    <header class="major">
+                        <h2>Partner Agencies</h2>
+                    </header>
+                    <br>
+
+                    <p style="clear: both;">
+					
+</p><div style="text-align: center;"> 
+				
+                    <span class="image left" style="max-width: 250px;">
+					
+<a href="http://www.nashville.gov/Information-Technology-Services.aspx">
+<img src="images\agencies\seal.png" alt="" width="800">
+</a>
+<br>
+<a href="http://www.nashvillemta.org/">
+<img src="images\agencies\mta.png" alt="">
+</a>
+
+</span>
+
+
+<span class="image left" style="max-width: 150px;">
+
+<a href="http://www.nashvillempo.org/">
+<img src="images\agencies\plan_large.png" alt="">
+</a>
+<br>
+<a href="http://www.nashville.gov/Fire-Department.aspx">
+<img src="images\agencies\fire.jpg" alt="">
+</a>
+<br>
+<a href="http://www.nashville-mdha.org/">
+<img src="images\agencies\housing.png" alt="">
+</a>
+</span>
+
+<h3>
+<br> <br> <b>
+<a href="http://www.nashville.gov/Information-Technology-Services.aspx">
+Mayor’s Office & Metro Information Technology Services (ITS) </a> <br> <br>
+<a href="http://www.nashvillemta.org/">
+Nashville Metro Transit Authority (MTA) </a> <br> <br>
+<a href="http://www.nashvillempo.org/">
+Metropolitan Planning Organization (MPO) </a> <br> <br>
+<a href="http://www.nashville.gov/Fire-Department.aspx">
+Nashville Fire Department (NFD) </a> <br> <br>
+<a href="http://www.nashville-mdha.org/">
+Nashville Metro Development and Housing Authority (MDHA) </a> <br> <br> <br> <br> <br> <br>
+</b> </h3>
+ </div>	
+
+
+
+
+
+                    
+                    <br>
+					
+					
+                    </div></div></section>
+
+<!-- Team Section -->
+
+            <section class="main special">
+            
+            
+                <div class="content">
+
+                    
+                    <p style="clear: both;">
+
+            
+                <div class="content">
+                    <header class="major">
+                        <h2>The Team</h2>
+                    </header>
+                    <!-- <p></p> -->
+                    <br>
+                    
+<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/hiba-baroud">
+<img src="images\people\baroud.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/hiba-baroud">
+<b>Hiba Baroud</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Hiba is a professor of Civil and Environmental Engineering. Her research is focused on statistical modeling applied to risk and decision analysis in infrastructure systems. As part of VISOR, she is working with faculty and students to build a predictive model that will inform authorities on delays in the transit system as well as their cascading effects throughout the system. The team is collecting and analyzing data from multiple sources related to weather, traffic, and special events to identify their impact on the transit operational effectiveness.   </div>
+                    <!-- <a href=""><i>Read more...</i></a> -->
                     </p>
                     <br>
-                    {% endfor %}
-            </section>
-            <section id="fourth" class="main special">
-                <header class="major">
-                    <h2>Research Collaborations</h2>
-                </header>
-                    {% for item in site.research %}
+				
                     <p style="clear: both;">
-                    <span class="image {% cycle 'left', 'right' %}"><img src="{{ item.image }}" alt="" /></span>
-                    <h3> {{ item.title }} </h3>
-                    {{ item.description }}
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/gautam-biswas">
+<img src="images\people\biswas_1.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/gautam-biswas">
+<b>Gautam Biswas</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Gautam Biswas is a Professor of Computer Science, Computer Engineering, and Engineering Management in the EECS Department and a Senior Research Scientist at the Institute for Software Integrated Systems (ISIS) at Vanderbilt University. He has an undergraduate degree in Electrical Engineering from the Indian Institute of Technology (IIT) in Mumbai, India, and M.S. and Ph.D. degrees in Computer Science from Michigan State University in E. Lansing, MI.  </div>
                     </p>
                     <br>
-                    {% endfor %}
+					
+
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/janey-camp">
+<img src="images\people\camp.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/janey-camp">
+<b>Janey Camp</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Janey Camp is a Professor of Civil and Environmental Engineering and is part of the team looking at gentrification and mobility in the Nashville area.  A real concern as gentrification is occurring is that those individuals most dependent on transit for their daily activities and livelihood are being displaced to areas where either transit service is highly infrequent or even non-existent.  Using geospatial analysis coupled with field data collection on who is moving from and to where, we can better understand where improved transit service is needed to meet the needs of the entire Nashville community, especially those who need it most.   </div>
+                    <!-- <a href=""><i>Read more...</i></a> -->
+                    </p>
+                    <br>                    
+
+					<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/abhishek-dubey">
+<img src="images\people\dubey.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/abhishek-dubey">
+<b>Abhishek Dubey</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Abhishek Dubey is an assistant professor in the department of computer science and computer engineering at Vanderbilt University. He is also a senior research scientist at the Institute for Software Integrated Systems at Vanderbilt University. His research interests predominantly lies in resilient cyber-physical systems, including fault diagnositcs and prognostics and performance management algorithms. He is particularly interested in applying his work to solve the interoperability, scalability and fault management challenges faced by data intensive applications developed and deployed for smart and connect communities. His current projects are related to transportation, smart grid and emergency response domains. </div>
+                    <!-- <a href=""><i>Read more...</i></a> -->
+                    </p>
+                    <br>
+
+
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="http://peabody.vanderbilt.edu/bio/james-fraser">
+<img src="images\people\fraser2.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="http://peabody.vanderbilt.edu/bio/james-fraser">
+<b>James Fraser</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Dr. James Fraser is an Associate Professor in the Department of Human and Organizational Development in Peabody College, and Affiliated Faculty in American Studies, as well as the Institute for Energy and the Environment. Dr. Fraser’s areas of specialty include urban and environmental geography. In particular, his work focuses on urban restructuring and governance, housing and neighborhood redevelopment, human dimensions of environmental change, and social justice. His current book project, A People’s Guide to Nashville, is currently in press with the University of California Press, and his second book entitled The Making of the Precarious City, is in preparation.  </div>
+                    </p>
+                    <br>	
+
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://www.vanderbilt.edu/ees/people/faculty/JonathanGilligan.php">
+<img src="images\people\gilligan.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://www.vanderbilt.edu/ees/people/faculty/JonathanGilligan.php">
+<b>Jonathan Gilligan</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Professor Gilligan works primarily at the intersection of natural science, social science, and public policy with a focus on coupled human-natural systems and on the ways in which scientific knowledge and uncertainty affect policy decisions about the environment. Professor Gilligan's current work makes extensive use of agent-based models to simulate the ways that small changes in behavior at the individual level can add up to large-scale shifts at the level of the whole population, giving what is often referred to as “emergent phenomena.” These models have the potential to help us identify vulnerabilities to environmental stress and opportunities to promote sustainable adaptations. </div>
+                    </p>
+                    <br>					
+					
+					
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/craig-philip">
+<img src="images\people\philip.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/craig-philip">
+<b>Craig Philip</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Professor Philip has been involved in coordination activities with the Metropolitan Transit Authority in Nashville and the development of collaborations focused on the interplay of land use and mobility choices, especially related to the Vanderbilt community itself. Dr. Philip’s work is informed by more than 30 years managing rail, intermodal and marine operations, including more than 20 years as President/CEO of what grew to become the largest domestic maritime operator in the United States.  </div>
+                    </p>
+                    <br>
+					
+					<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://my.vanderbilt.edu/perkins/">
+<img src="images\people\perkins2.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://my.vanderbilt.edu/perkins/">
+<b>Douglas Perkins</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Douglas Perkins is Professor of Human & Organizational Development in Peabody College and Founding Director of the Ph.D. Program in Community Research & Action and Director of HOD Undergraduate Honors. He is a community and environmental psychologist whose research has focused on citizen participation in community organizations and local government solutions to urban problems, including neighborhood revitalization and change, affordable housing, homelessness, youth violence, and other issues.  </div>
+                    </p>
+                    <br>
+					
+					<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/douglas-schmidt">
+<img src="images\people\schmidt.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/douglas-schmidt">
+<b>Douglas Schmidt</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Dr. Douglas C. Schmidt is the Cornelius Vanderbilt Professor of Computer Science and Associate Chair of the Electrical Engineering and Computer Science Department at Vanderbilt University.  He has published 12 books and more than 575 technical papers -- many in top conferences and journals.  His publications cover a range of software-related topics, including patterns, optimization techniques, and empirical analyses of frameworks and model-driven engineering tools that facilitate the development of mission-critical middleware and mobile cloud computing applications running over wireless/wired networks and embedded system interconnects.  He has mentored and graduated over 40 Ph.D. and Masters students.  </div>
+                    </p>
+                    <br>
+
+					<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/eugene-vorobeychik">
+<img src="images\people\vorobeychik.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/eugene-vorobeychik">
+<b>Yevgeniy Vorobeychik</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Yevgeniy Vorobeychik, Ph.D. is an Assistant Professor of Computer Science, Computer Engineering, and Biomedical Informatics.  His research on smart cities focuses on incident forecasting and intelligent planning and optimization for incident response.  More broadly, his research is on algorithmic game theory, optimization, machine learning, and network science. He holds degrees from the University of Michigan and Northwestern University.  </div>
+                    </p>
+                    <br>
+
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/aniruddha-gokhale">
+<img src="images\people\gokhale.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/aniruddha-gokhale">
+<b>Aniruddha Gokhale</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Professor Gokhale holds a Doctorate of Science from Washington University in Computer Science. His intellectual neighborhoods include Big Data Engineering and Cyber Physical systems. Specifically, his research focus lies in fault tolerant and real-time middleware; cyble physical systems, and model driven engineering. </div>
+                    </p>
+                    <br>
+					
+					
+                    <p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://as.vanderbilt.edu/math/bio/mark-ellingham">
+<img src="images\people\ellingham.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://as.vanderbilt.edu/math/bio/mark-ellingham">
+<b>Mark Ellingham</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Mark Ellingham is a Professor of Mathematics at Vanderbilt University. His research interests include theory and applications of networks.  He is also familiar with methods for creating and analyzing mathematical models of real-world problems.   He has a broad knowledge of optimization techniques that can be applied to solve problems arising in many aspects of planning for smart cities. He received his Ph.D. from the Unversity of Waterloo in 1986.  </div>
+                    </p>
+                    <br>					
+					
+
+					<p style="clear: both;">
+                    <span class="image  left" style="max-width: 150px;">
+
+<a href="https://engineering.vanderbilt.edu/bio/jules-white">
+<img src="images\people\white.jpg" alt="" />
+</a>
+</span>
+                    <h3> 
+					
+<a href="https://engineering.vanderbilt.edu/bio/jules-white">
+<b>Jules White</b>
+</a>
+
+</h3>
+                   <div style="text-align: justify;"> Jules White, Ph.D., is an Assistant Professor of Computer Science at Vanderbilt University. His intellectual neighborhoods include big data engineering and cyber physical systems. He holds degrees from Brown and Vanderbilt Universities. </div>
+                    </p>
+                    <br>	
+
+                    <br><br><br>
+                    
             </section>
+						
+<!-- Gmaps Section -->
+			
+			    <section id="intro" class="main special">
+                <div class="spotlight">
+                    <div class="content" style="text-align: center;">
+                        <header class="major"  style="text-align: center;">
+                            <h2>The Institute</h2>
+							<h3><a href="https://engineering.vanderbilt.edu/"> Vanderbilt University School of Engineering </a><br><a href="http://www.isis.vanderbilt.edu/"> Institue for Software Integrated Systems </a><br> VUSE-ISIS Building Information</h3>
+							<div style="text-align: center;"> 1025 16th Ave S, Suite 102 <br> Nashville, TN 37212 <br> +1 (615) 343-7472 <br> <br> </div>
+							<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m0!3m2!1sen!2sus!4v1452637291314!6m8!1m7!1s3kPQykVQeBl2voUqh6W_zQ!2m2!1d36.14455349561005!2d-86.79291998422646!3f326.90607782911314!4f-0.21808073183262877!5f0.7820865974627469&amp;key=AIzaSyDcXKaI76HEQpGIO-04bduFGidVhPHYsSI"></iframe><br />
+
+                        </header>
+						
+                            
+							
+</div>
+                    <!-- <span class="image"><img src="images/vehicles/varun.jpg" alt="varun" /></span> -->
+                </div>
+            </section>
+
         </div>
+
+    </body>
+	
+    <!-- Footer -->
+<footer style="text-align: center;background:rgba(0,0,0,0.5);">
+    <ul style="display:inline-block;margin-top:1em;margin-left:-1.5em;margin-bottom:1em;overflow:hidden;list-style-type:none;">
+        <!-- <li style="float:left;">
+            <a href=" /feed.xml ">
+                <span class="icon fa-rss alt">
+            </a>
+        </li> -->
+        
+        <li style="float:left;">
+            <a href="https://github.com/visor-vu">
+                <span class="icon fa-github alt">
+            </a>
+        </li>
+         
+        <li style="float:left;">
+            <a href="mailto:abhishek.dubey@vanderbilt.edu">
+                <span class="icon fa-envelope alt">
+            </a>
+        </li>
+        
+    </ul>
+    <p class="copyright" style="margin-bottom:2em; "><span style="">Copyright &copy; Vanderbilt University 2017<br/>Jekyll Template: AUV-IITK | <a href="https://www.flickr.com/photos/143951935@N07/27492741871">Background Image: Derrick Brutel</a></span>
+     <!-- | Free Stock Footage By Videezy -->
+     </p>
+</footer>
+<!-- Scripts -->
+<script src="assets/js/jquery.min.js"></script>
+<script src="assets/js/jquery.scrollex.min.js"></script>
+<script src="assets/js/jquery.scrolly.min.js"></script>
+<script src="assets/js/skel.min.js"></script>
+<script src="assets/js/util.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/bootstrap.min.js"></script>
+<script src="assets/js/typed.js"></script>
+
+	
+</div>
+
+</html>

@@ -1,0 +1,483 @@
+[
+  
+    {
+      "title"    : "Abhishek Dubey, Xianbin Wu, Hang Su, and Takkuen John Koo. Computation platform for automatic analysis of embedded software systems using model based approach. Lecture Notes in Computer Science, 3707:114-128, 2005.",
+      "date"     : "2005-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Steve Nordstrom, Turker Keskinpala, Sandeep Neema, and Ted Bapty. Verifying autonomic fault mitigation strategies in large scale real-time systems. In 3rd IEEE International Workshop on Engineering of Autonomic &amp; Autonomous Systems (EASe), 129–140. 2006.",
+      "date"     : "2006-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Turker Keskinpala, Abhishek Dubey, Steve Nordstrom, Ted Bapty, and Sandeep Neema. A model driven tool for automated system level testing of middleware. In Fourth System Testing and Validation Workshop (STV). 2006.",
+      "date"     : "2006-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Takkuen John Koo, Xianbin Wu, Hang Su, Jie Chen, and Abhishek Dubey. Reachlab: computation platform for the analysis of hybrid automata. In 9th International Workshop on Hybrid Systems: Computation and Control (HSCC 2006). 2006.",
+      "date"     : "2006-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Steve Nordstrom, Ted Bapty, Sandeep Neema, Abhishek Dubey, and Turker Keskinpala. A guided explorative approach for autonomic healing of model based systems. In Second IEEE conference on Space Mission Challenges for Information Technology (SMC-IT). July 2006.",
+      "date"     : "2006-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Steve Nordstrom, Abhishek Dubey, Turker Keskinpala, Ted Bapty, and Sandeep Neema. Ghost: guided healing and optimization search technique for healing large-scale embedded systems. In 3rd IEEE International Workshop on Engineering of Autonomic &amp; Autonomous Systems (EASe), 129–140. 2006.",
+      "date"     : "2006-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Steve Nordstrom, Abhishek Dubey, Turker Keskinpala, Rahul Datta, Sandeep Neema, and Ted Bapty. Model predictive analysis for autonomic workflow management in large-scale scientific computing environments. In 4th IEEE International Workshop on Engineering of Autonomic &amp; Autonomous Systems (EASe), 37–42. 2007.",
+      "date"     : "2007-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Steve Nordstrom, Turker Keskinpala, Sandeep Neema, Ted Bapty, and Gabor Karsai. Towards a verifiable real-time, autonomic, fault mitigation framework for large scale real-time systems. Innovations in Systems and Software Engineering, 3(1):33-52, 2007.",
+      "date"     : "2007-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Steve Nordstrom, Turker Keskinpala, Sandeep Neema, Ted Bapty, and Gabor Karsai. Towards a model-based autonomic reliability framework for computing clusters. In 5th IEEE International Workshop on Engineering of Autonomic &amp; Autonomous Systems (EASe), 75–85. 2008.",
+      "date"     : "2008-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Sandeep Neema, Jim Kowalkowski, and Amitoj Singh. Scientific computing autonomic reliability framework. In ESCIENCE 2008: Proceedings of the 2008 Fourth IEEE International Conference on eScience, 352–353. Washington, DC, USA, 2008. IEEE Computer Society.",
+      "date"     : "2008-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Nagabhushan Mahadevan, and Robert Kereskenyi. Reflex and healing architecture for software health management. In International Workshop on Software Health Management, IEEE conference on Space Mission Challenges for Information Technology. 07/2009 2009.",
+      "date"     : "2009-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey. Algorithms for synthesizing safe sets of operation for embedded systems. In ECBS &#39;09: Proceedings of the 2009 16th Annual IEEE International Conference and Workshop on the Engineering of Computer Based Systems, 149–155. Washington, DC, USA, 2009. IEEE Computer Society.",
+      "date"     : "2009-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Luciano Piccoli, James B. Kowalkowski, James N. Simone, Xian-He Sun, Gabor Karsai, and Sandeep Neema. Using runtime verification to design a reliable execution framework for scientific workflows. In EASE &#39;09: Proceedings of the 2009 Sixth IEEE Conference and Workshops on Engineering of Autonomic and Autonomous Systems, 87–96. Washington, DC, USA, 2009. IEEE Computer Society.",
+      "date"     : "2009-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Derek Riley, Sherif Abdelwahed, and Ted Bapty. Modeling and analysis of probabilistic timed systems. In IEEE International Conference on the Engineering of Computer-Based Systems, 69-78. Los Alamitos, CA, USA, 2009. IEEE Computer Society.",
+      "date"     : "2009-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Rajat Mehrotra, Sherif Abdelwahed, and Asser Tantawi. Performance modeling of distributed multi-tier enterprise systems. SIGMETRICS Perform. Eval. Rev., 37(2):9–11, oct 2009.",
+      "date"     : "2009-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Luciano Piccoli, Abhishek Dubey, James N Simone, and James B Kowalkowlski. Lqcd workflow execution framework: models, provenance and fault-tolerance. Journal of Physics: Conference Series, 219(7):072047, 2010.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Jaiganesh Balasubramanian, Aniruddha Gokhale, Abhishek Dubey, Friedhelm Wolf, Chenyang Lu, Chris Gill, and Douglas Schmidt. Middleware for resource-aware deployment and configuration of fault-tolerant real-time systems. In RTAS 2010: Proceedings of the 2010 16th IEEE Real-Time and Embedded Technology and Applications Symposium, 69–78. Washington, DC, USA, 2010. IEEE Computer Society.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Gabor Karsai, Robert Kereskenyi, and Nagabhushan Mahadevan. A real-time component framework: experience with ccm and arinc-653. In IEEE International Symposium on Object-Oriented Real-Time Distributed Computing, 143–150. Los Alamitos, CA, USA, 2010. IEEE Computer Society.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "N. Mahadevan, S. Abdelwahed, A. Dubey, and G. Karsai. Distributed diagnosis of complex systems using timed failure propagation graph models. In AUTOTESTCON, 2010 IEEE, 1-6. Sept 2010.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Rajat Mehrotra, Abhishek Dubey, Sherif Abdelwahed, and Asser Tantawi. Integrated monitoring and control for performance management of distributed enterprise systems. In International Symposium on Modeling, Analysis, and Simulation of Computer Systems, 424–426. Los Alamitos, CA, USA, 2010. IEEE Computer Society.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Pan Pan, Abhishek Dubey, and Luciano Piccoli. Dynamic workflow management and monitoring using dds. In Engineering of Autonomic and Autonomous Systems (EASe), 2010 Seventh IEEE International Conference and Workshops on, 20-29. March 2010.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Tripti Saxena, Abhishek Dubey, Daniel Balasubramanian, and Gabor Karsai. Enabling self-management by using model-based design space exploration. In 7th IEEE International Workshop on Engineering of Autonomic &amp; Autonomous Systems (EASe), 137-144. Los Alamitos, CA, USA, 2010. IEEE Computer Society.",
+      "date"     : "2010-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Gabor Karsai, and Nagabhushan Mahadevan. A Component Model for Hard Real-time Systems: CCM wwith ARINC-653. Software: Practice and Experience, 41(12):1517–1550, 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhsihek Dubey, Gabor Karsai, and Nagabhushan Mahadevan. Model-based software health management for real-time systems. In Aerospace Conference, 2011 IEEE, 1–18. March 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nagabhushan Mahadevan, Abhishek Dubey, and Gabor Karsai. Application of software health management techniques. In Proceedings of the 6th International Symposium on Software Engineering for Adaptive and Self-Managing Systems, SEAMS 2011, 1–10. New York, NY, USA, 2011. ACM.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "R. Mehrotra, A. Dubey, S. Abdelwahed, and W. Monceaux. Large scale monitoring and online analysis in a distributed virtualized environment. In Engineering of Autonomic and Autonomous Systems (EASe), 2011 8th IEEE International Conference and Workshops on, 1–9. April 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nilabja Roy, Abhishek Dubey, and Aniruddha Gokhale. Efficient autoscaling in the cloud using predictive models for workload forecasting. In Cloud Computing (CLOUD), 2011 IEEE International Conference on, 500–507. July 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nilabja Roy, Abhishek Dubey, Aniruddha Gokhale, and Larry Dowdy. A Capacity Planning Process for Performance Assurance of Component-based Distributed Systems. In Proceeding of the second joint WOSP/SIPEW international conference on Performance engineering, ICPE 2011, 259–270. New York, NY, USA, 2011. ACM.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Sherif Abdelwahed, Abhishek Dubey, Gabor Karsai, and Nagabhushan Mahadevan. Machine learning and knowledge discovery for engineering systems health management, chapter Model-based Tools and Techniques for Real-Time System and Software Health Management. Chapman and Hall/CRC Press, November 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Rajat Mehrotra, Abhishek Dubey, Sherif Abdelwahed, and Asser Tantawi. A power-aware modeling and autonomic management framework for distributed computing systems. Handbook of Energy-Aware and Green Computing, 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Steve Nordstrom, Abhishek Dubey, Turker Keskinpala, Sandeep Neema, and Theodore Bapty. Autonomic healing of model-based systems. Journal of Aerospace Computing, Information, and Communication, 8(4):87–99, 2011.",
+      "date"     : "2011-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "A. Dabholkar, A. Dubey, A. Gokhale, G. Karsai, and N. Mahadevan. Reliable distributed real-time and embedded systems through safe middleware adaptation. In Reliable Distributed Systems (SRDS), 2012 IEEE 31st Symposium on, 362-371. Oct 2012.",
+      "date"     : "2012-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Nagabhushan Mahadevan, and Gabor Karsai. A deliberative reasoner for model-based software health management. In The Eighth International Conference on Autonomic and Autonomous Systems, 86–92. 2012. Best Paper Award.",
+      "date"     : "2012-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "A. Dubey, W. Emfinger, A. Gokhale, G. Karsai, W.R. Otte, J. Parsons, C. Szabo, A. Coglio, E. Smith, and P. Bose. A software platform for fractionated spacecraft. In Aerospace Conference, 2012 IEEE, 1–20. March 2012.",
+      "date"     : "2012-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nag Mahadevan, Abhishek Dubey, and Gabor Karsai. Architecting health management into software component assemblies: lessons learned from the arinc-653 component model. In Object/Component/Service-Oriented Real-Time Distributed Computing (ISORC), 2012 IEEE 15th International Symposium on, 79-86. April 2012.",
+      "date"     : "2012-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Rajat Mehrotra, Abhishek Dubey, Sherif Abdelwahed, and Rowland Krisa. RFDMon: A Real-time and Fault-tolerant Distributed System Monitoring Approach. In Eighth International Conference on Autonomic and Autonomous Systems (ICAS), 57–63. March 2012.",
+      "date"     : "2012-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Daniel Balasubramanian, William Emfinger, Pranav Kumar, William Otte, Abhishek Dubey, and Gabor Karsai. An application development and deployment platform for satellite clusters. In Workshop on Spacecraft Flight Software. 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Aniruddha Gokhale, Gabor Karsai, William Otte, and Johnny Willemsen. A Model-Driven Software Component Framework for Fractionated Spacecraft. In Proceedings of the 5th International Conference on Spacecraft Formation Flying Missions and Technologies (SFFMT). Munich, Germany, may 2013. IEEE.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nagabhushan Mahadevan, Abhishek Dubey, Daniel Balasubramanian, and Gabor Karsai. Deliberative, search-based mitigation strategies for model-based software health management. Innov. Syst. Softw. Eng., 9(4):293–318, dec 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "W.R. Otte, A. Dubey, S. Pradhan, P. Patil, A. Gokhale, G. Karsai, and J. Willemsen. F6com: a component model for resource-constrained and dynamic space-based computing environments. In Object/Component/Service-Oriented Real-Time Distributed Computing (ISORC), 2013 IEEE 16th International Symposium on, 1-8. June 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Subhav Pradhan, William R. Otte, Abhishek Dubey, Aniruddha Gokhale, and Gabor Karsai. Towards a resilient deployment and configuration infrastructure for fractionated spacecraft. SIGBED Rev., 10(4):29–32, dec 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Jian Shi, R. Amgai, S. Abdelwahed, A. Dubey, J. Humphreys, M. Alattar, and R. Jia. Generic modeling and analysis framework for shipboard system design. In Electric Ship Technologies Symposium (ESTS), 2013 IEEE, 420-428. April 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Gabor Karsai, and Nagabhushan Mahadevan. Fault-adaptivity in hard real-time component-based software systems. In Rogerio Lemos, Holger Giese, HausiA. Muller, and Mary Shaw, editors, Software Engineering for Self-Adaptive Systems II, volume 7475 of Lecture Notes in Computer Science, pages 294-323. Springer Berlin Heidelberg, 2013.",
+      "date"     : "2013-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Tihamer Levendovszky, Abhishek Dubey, William R. Otte, Daniel Balasubramanian, Alessandro Coglio, Sandor Nyako, William Emfinger, Pranav Kumar, Aniruddha Gokhale, and Gabor Karsai. Distributed real-time managed systems: a model-driven distributed secure information architecture platform for managed embedded systems. Software, IEEE, 31(2):62-69, Mar 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Daniel Balasubramanian, Tihamer Levendovszky, Abhishek Dubey, and Gabor Karsai. Taming multi-paradigm integration in a software architecture description language. In Proceedings of the 8th Workshop on Multi-Paradigm Modeling co-located with the 17th International Conference on Model Driven Engineering Languages and Systems, MPM@MODELS 2014, Valencia, Spain, 67–76. 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, William Otte, and Gabor Karsai. An information architecture platform for mobile, secure, and resilient distributed systems. In High Confidence Software and Systems Conference. 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "William Emfinger, Gabor Karsai, Abhishek Dubey, and Aniruddha Gokhale. Analysis, verification, and management toolsuite for cyber-physical applications on time-varying networks. In Proceedings of the 4th ACM SIGBED International Workshop on Design, Modeling, and Evaluation of Cyber-Physical Systems, CyPhy &#39;14, 44–47. New York, NY, USA, 2014. ACM.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Gabor Karsai, Daniel Balasubramanian, Abhishek Dubey, and William R Otte. Distributed and managed: research challenges and opportunities of the next generation cyber-physical systems. In 17th IEEE Symposium on Object/Component/Service-oriented Real-time Distributed Computing, 1-8. June 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Gabor Karsai, Daniel Balasubramanian, Abhishek Dubey, and William R Otte. Distributed and managed: research challenges and opportunities of the next generation cyber-physical systems. In 17th IEEE Symposium on Object/Component/Service-oriented Real-time Distributed Computing, 1-8. June 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Pranav Srinivas Kumar, Abhishek Dubey, and Gabor Karsai. Colored petri net-based modeling and formal analysis of component-based applications. In Proceedings of the 11th Workshop on Model-Driven Engineering, Verification and Validation co-located with 17th International Conference on Model Driven Engineering Languages and Systems, MoDeVVa@MODELS 2014, Valencia, Spain, September 30, 2014., 79–88. 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nagabhushan Mahadevan, Abhishek Dubey, Huangcheng Guo, and Gabor Karsai. Using temporal causal models to isolate failures in power system protection devices. In AUTOTESTCON, 2014 IEEE, 270–279. IEEE, 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Nagabhushan Mahadevan, Abhishek Dubey, Gabor Karsai, Anurag Srivastava, and Chen-Ching Liu. Temporal causal diagrams for diagnosing failures in cyber-physical systems. Annual Conference of the Prognostics and Health Management Society, 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "G. Martins, A. Bhattacharjee, A. Dubey, and X.D. Koutsoukos. Performance evaluation of an authentication mechanism in time-triggered networked control systems. In Resilient Control Systems (ISRCS), 2014 7th International Symposium on, 1-6. Aug 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saideep Nannapaneni, Abhishek Dubey, Sherif Abdelwahed, Sankaran Mahadevan, and Sandeep Neema. A model-based approach for reliability assessment in component-based systems. Annual Conference of the Prognostics and Health Management Society, 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "William R. Otte, Abhishek Dubey, and Gabor Karsai. A resilient and secure software platform and architecture for distributed spacecraft. In SPIE Defense, Security, and Sensing. 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "S. Pradhan, W. Emfinger, A. Dubey, W.R. Otte, D. Balasubramanian, A. Gokhale, G. Karsai, and A. Coglio. Establishing secure interactions across distributed applications in satellite clusters. In Space Mission Challenges for Information Technology (SMC-IT), 2014 IEEE International Conference on, 67-74. Sept 2014.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Subhav Pradhan, William Otte, Abhishek Dubey, Aniruddha Gokhale, and Gabor Karsai. Key considerations for a resilient and autonomous deployment and configuration infrastructure for cyber-physical systems. In 11th IEEE International Conference and Workshops on the Engineering of Autonomic and Autonomous Systems (EASe-2014). Laurel, MD, USE, 2014. IEEE.",
+      "date"     : "2014-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "N. Mahadevan, A. Dubey, A. Chhokra, H. Guo, and G. Karsai. Using temporal causal models to isolate failures in power system protection devices. Instrumentation Measurement Magazine, IEEE, 18(4):28-39, August 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Daniel Balasubramanian, Abhishek Dubey, William Otte, Tihamer Levendovszky, Aniruddha Gokhale, Pranav Kumar, William Emfinger, and Gabor Karsai. DREMS ML: A Wide Spectrum Architecture Design Language for Distributed Computing Platform. Sci. Comput. Program., 106(C):3–29, aug 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "A. Chhokra, A. Dubey, N. Mahadevan, and G. Karsai. A component-based approach for modeling failure propagations in power systems. In Modeling and Simulation of Cyber-Physical Energy Systems (MSCPES), 2015 Workshop on, 1-6. April 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Monika Sturm, Martin Lehofer, and Janos Sztipanovits. Smart city hubs: opportunities for integrating and studying human cps at scale. Workshop on Big Data Analytics in CPS: Enabling the Move from IoT to Real-Time Control, April 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Rishabh Jain, Srdjan Lukic, Ajay Chokra, Nag Mahadevan, Abhishek Dubey, and Gabor Karsai. An improved distance relay model with directional element, and memory polarization for tcd based fault propagation studies. In North American Power Symposium (NAPS), 1–6. October 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "William Otte, Martin Lehofer, and Abhishek Dubey. Challenges for application platforms for integrated cyber physical systems. Workshop on Big Data Analytics in CPS: Enabling the Move from IoT to Real-Time Control, April 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Subhav Pradhan, Abhishek Dubey, Aniruddha Gokhale, and Martin Lehofer. CHARIOT: A Domain Specific Language for Extensible Cyber-Physical Systems. In The 15th Workshop on Domain-Specific Modeling. Pittsburgh, Pennsylvania, United States, october 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Shashank Shekhar, Subhav Pradhan, Fangzhou Sun, , Annirudha Gokhale, and Abhishek Dubey. Empowering the next generation city-scale smart systemsempowering the next generation city-scale smart systems. In Workshops on Dynamic Data Driven Applications Systems(DDDAS) In conjunction with 22nd International Conference on High Performance Computing (HiPC). 2015.",
+      "date"     : "2015-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Scott Eisele, Masahiro Yamaura, Nikos Arechiga, Shinichi Shiraishi, Joseph Hite, Jason Scott, Sandeep Neema, and Theodore Bapty. Adas virtual prototyping with the openmeta toolchain. In SAE 2016 World Congress &amp; Exhibition. Detroit, Michigan, USA, 04/2016 2016. SAE International, SAE International.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Subhav Pradhan, Abhishek D, Shweta Khare, Saideep Nannapaneni, Aniruddha Gokhale, Sankaran Mahadevan, Douglas C. Schmidt, and Martin Lehofer. Chariot: a holistic, goal driven orchestration solution for resilient iot applications. ACM Transactions on Cyber-Physical Systems, 2016. submitted.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Gautam Biswas, Hamed Khorasgani, Gerald Stanje, Abhishek Dubey, Somnath Deb, and Sudipto Ghoshal. An application of data driven anomaly identification to spacecraft telemetry data. Annual Conference of the Prognostics and Health Management Society, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Subhav Pradhan, Douglas C Schmidt, Sebnem Rusitschka, and Monika Sturm. The role of context and resilient middleware in next generation smart grids. In Proceedings of the 3rd Workshop on Middleware for Context-Aware Applications in the IoT, 1–6. ACM, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "William Emfinger, Abhishek Dubey, Peter Volgyesi, Janos Sallai, and Gabor Karsai. Demo abstract: riaps - a resilient information architecture platform for edge computing. In 2016 IEEE/ACM Symposium on Edge Computing (SEC), 119–120. IEEE, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saideep Nannapaneni, Abhishek Dubey, Sherif Abdelwahed, Sankaran Mahadevan, Sandeep Neema, and Ted Bapty. Mission-based reliability prediction in component-based systems. International Journal of Prognostics and Health Management, February 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Gautam Biswas, Hamed Khorasgani, Gerald Stanje, Abhishek Dubey, Somnath Deb, and Sudipto Ghoshal. A data-driven approach for mode and anomaly detection from spacecraft telemetry streams. International Journal of Prognostics and Health Management, February 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saideep Nannapaneni, Mahadevan Sankaran, Subhav Pradhan, and Abhishek Dubey. Towards reliability-based decision making in cyber-physical systems. First International Workshop on Smart Service Systems, May 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Himanshu Neema, William Emfinger, and Abhishek Dubey. A reusable and extensible web-based co-simulation platform for transactive energy systems. In 3rd International Transactive Energy Systems. Portland, Oregon, 05/2016 2016. GridWise extregistered  Architecture Council, GridWise extregistered  Architecture Council.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "A. Oruganti, F. Sun, H. Baroud, and A. Dubey. Delayradar- a multivariate predictive model for transit systems. In 2016 IEEE International Conference on Big Data (Big Data), 1799-1806. Dec 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "S. Pradhan, A. Dubey, S. Neema, and A. Gokhale. Towards a generic computation model for smart city platforms. In 2016 1st International Workshop on Science of Smart City Operations and Platforms Engineering (SCOPE) in partnership with Global City Teams Challenge (GCTC) (SCOPE - GCTC), 1-6. April 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Subhav Pradhan, Abhishek Dubey, Tihamer Levendovszky, Pranav Srinivas Kumar, William A. Emfinger, Daniel Balasubramanian, William Otte, and Gabor Karsai. Achieving resilience in distributed software systems via self-reconfiguration. Journal of Systems and Software, 122():344 - 363, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Akshay Dabholkar, Aniruddha Gokhale, Abhishek Dubey, and Gabor Karsai. Safemat: safe middleware-based adaptation for predictable fault-tolerant distributed real-time and embedded systems. Journal of Systems and Software, 2016. Under Review.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Fangzhou Sun, Yao Pan, Jules White, and Abhishek Dubey. Real-time and predictive analytics for smart public transportation decision support system. In 2016 IEEE International Conference on Smart Computing (SMARTCOMP), 1-8. May 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Fangzhou Sun, Abhishek Dubey, Jules White, and Aniruddha Gokhale. Transit-hub: a smart public transportation decision support system with multi-timescale analytical services. Cluster Computing, 2016. under review.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Goncalo Martins, Arul Moondra, Abhishek Dubey, Anirban Bhattacharjee, and Xenofon D. Koutsoukos. Computation and communication evaluation of an authentication mechanism for time-triggered networked control systems. Sensors, 16(8):1166, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Shashank Shekhar, Fangzhou Sun, Abhishek Dubey, Aniruddha Gokhale, Himanshu Neema, Martin Lehofer, and Dan Freudberg. Internet of Things and Data Analytics Handbook, chapter Transit Hub- A Smart Decision Support System for Public Transit Operations, pages 597–611. John Wiley and Sons, 2016.",
+      "date"     : "2016-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Ajay Chhokra, Amogh Kulkarni, Saqib Hasan, Abhishek Dubey, Nagabhushan Mahadevan, and Gabor Karsai. A systematic approach of identifying optimal load control actions for arresting cascading failures in power systems. In 2nd Workshop on Cyber-Physical Security and Resilience in Smart Grids (CPSR-SG 2017). Pittsburgh, Pennsylvania, USA, 04/2017 2017. ACM, ACM.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Gabor Karsai, Aniruddha Gokhale, William Emfinger, and Pranav Kumar. Drems-os: an operating system for managed distributed real-time embedded systems. In Space Mission Challenges for Information Technology (SMC-IT). 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Abhishek Dubey, Gabor Karsai, and Subhav Pradhan. Resilience at the edge in cyber-physical systems. In The 2nd International Conference on Fog and Mobile Edge Computing. Valencia, Spain, 05/2017 2017. IEEE, IEEE.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Scott Eisele, Istvan Madari, Abhishek Dubey, and Gabor Karsai. Riaps-resilient information architecture platform for decentralized smart systems. In 20th IEEE International Symposium on Real-Time Computing (ISORC). Toronto, Canada, 05/2017 2017. IEEE, IEEE.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Amin Ghafouri, Aron Laszka, Abhishek Dubey, and Xenofon Koutsoukos. Optimal detection of faulty traffic sensors used in route planning. In 2nd Workshop on Science of Smart City Operations and Platforms Engineering. Pittsburgh, PA, 04/2017 2017. ACM.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saqib Hasan, Abhishek Dubey, Ajay Chhokra, Nagabhushan Mahadevan, Gabor Karsai, and Xenofon D. Koutsoukos. A modeling framework to integrate exogenous tools for identifying critical components in power systems. In CPS Week- MSCPES. 2017 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Shweta Khare, Janos Sallai, Abhishek Dubey, and Aniruddha Gokhale. Towards low-cost indoor localization using edge computing resources. In 20th IEEE International Symposium on Real-Time Computing (ISORC). IEEE, IEEE, 05/2017 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Ayan Mukhopadhyay, Yevgeniy Vorobeychik, Abhishek Dubey, and Gautam Biswas. Prioritized allocation of emergency responders based on a continuous-time incident prediction model. In Autonomous Agents and Multiagent Systems (AAMAS). 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Chinmaya Samal, Fangzhou Sun, and Abhishek Dubey. SpeedPro: A Predictive Multi-Model Approach for Urban Traffic Speed Estimation. In Second IEEE Workshop on Smart Service Systems (SmartSys 2017). Hong Kong, China, may 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Scott Eisele, Abhishek Dubey, Gabor Karsai, and Srdjan Lukic. Wip abstract: transactive energy demo with riaps platform. In 2017 International Conference on Cyber Physical Systems. 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Fangzhou Sun, Chinamaya Samal, Jules White, and Abhishek Dubey. Unsupervised mechanisms for optimizing on-time performance of fixed schedule transit vehicles. In 3rd IEEE International Conference on Smart Computing. IEEE, 05/2017 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Geoffrey Pettet, Saideep Nannapaneni, Benjamin Stadnick, Abhishek Dubey, and Gautam Biswas. Incident analysis and prediction using clustering and bayesian network. In 2017 IEEE International Conference on Smart City Innovations. IEEE, Aug 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saideep Nannapaneni, Sankaran Mahadevan, Abhishek Dubey, David Lechevalier, Anantha Narayanan, and Sudarsan Rachuri. Automated uncertainty quantification through information fusion in manufacturing processes. Journal of Sustainable and Smart Manufacturing Systems, 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } ,
+  
+    {
+      "title"    : "Saideep Nannapaneni, Abhishek Dubey, and Sankaran Mahadevan. Performance evaluation of smart systems under uncertainty. In 2017 IEEE Smart World Congress. IEEE, Aug 2017.",
+      "date"     : "2017-01-01 00:00:01 +0000"
+    } 
+  
+]
