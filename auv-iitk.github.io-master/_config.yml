@@ -1,8 +1,8 @@
 # Site settings
-title: AUV-IITK
-email: iitkauv@gmail.com
-copyright_name: AUV-IITK
-github_username: AUV-IITK
+title: VISOR Project
+email: abhishek.dubey@gmail.com
+copyright_name: Vanderbilt
+github_username: visor-vu
 
 collections:
   vehicles :
