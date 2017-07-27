@@ -1,26 +1,28 @@
-<!-- Footer -->
-<footer style="text-align: center">
+    <!-- Footer -->
+<footer style="text-align: center;background:rgba(0,0,0,0.5);">
     <ul style="display:inline-block;margin-top:1em;margin-left:-1.5em;margin-bottom:1em;overflow:hidden;list-style-type:none;">
-        <li style="float:left;">
-            <a href="{{ " /feed.xml " | prepend: site.baseurl }}">
+        <!-- <li style="float:left;">
+            <a href=" /feed.xml ">
                 <span class="icon fa-rss alt">
             </a>
-        </li>
-        {% if site.github_username %}
+        </li> -->
+        
         <li style="float:left;">
-            <a href="https://github.com/{{ site.github_username }}">
+            <a href="https://github.com/visor-vu">
                 <span class="icon fa-github alt">
             </a>
         </li>
-        {% endif %} {% if site.email %}
+         
         <li style="float:left;">
-            <a href="mailto:{{ site.email }}">
+            <a href="mailto:abhishek.dubey@vanderbilt.edu">
                 <span class="icon fa-envelope alt">
             </a>
         </li>
-        {% endif %}
+        
     </ul>
-    <p class="copyright" style="margin-bottom:2em">Copyright &copy; {{ site.copyright_name }} {{ site.time | date: '%Y' }}</p>
+    <p class="copyright" style="margin-bottom:2em; "><span style="">Copyright &copy; Vanderbilt University 2017<br/>Jekyll Template: AUV-IITK | <a href="https://www.flickr.com/photos/143951935@N07/27492741871">Background Image: Derrick Brutel</a></span>
+     <!-- | Free Stock Footage By Videezy -->
+     </p>
 </footer>
 <!-- Scripts -->
 <script src="/assets/js/jquery.min.js"></script>
